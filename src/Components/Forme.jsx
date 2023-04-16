@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 import { Button, Container, Form, Nav, Navbar, Table } from "react-bootstrap";
-import NavBare from './NavBare';
+
 
 export default class Forme extends Component {
   render() {
     return (
       <div>
-        <NavBare/>
+    
         <Form>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>

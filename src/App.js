@@ -7,15 +7,8 @@ import Forme from "./Components/Forme";
 function App() {
   return (
     <div className="App">
-      <NavBare />
+      <NavBare/>
       <h1>Helloooo</h1>
-      <Array />
-      <Forme />
-      <Forme />
-      <Forme />
-      <Forme />
-      <Forme />
-      <Forme />
       <Forme />
     </div>
   );
